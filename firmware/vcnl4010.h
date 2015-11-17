@@ -10,7 +10,7 @@
 #endif
 
 
-#define VCNL4000_DEBUG 0
+#define VCNL4010_DEBUG 0
 
 // the i2c address
 #define VCNL4010_ADRESS 0x13
