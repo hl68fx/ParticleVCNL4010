@@ -1,5 +1,5 @@
 // This #include statement was automatically added by the Particle IDE.
-#include "VCNL4010.h"
+#include "ParticleVCNL4010/VCNL4010.h"
 
 vcnl4010 vcnl;
 
