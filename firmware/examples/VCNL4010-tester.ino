@@ -2,7 +2,7 @@
 #include "application.h"
 #include "VCNL4010/VCNL4010.h"
 
-vcnl4010 vcnl;
+VCNL4010 vcnl;
 
 void setup() {
   Serial.begin(9600);
