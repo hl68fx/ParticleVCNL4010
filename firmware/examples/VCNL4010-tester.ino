@@ -1,7 +1,7 @@
 // This #include statement was automatically added by the Particle IDE.
-#include "VCNL4010.h"
+#include "particle-vcnl4010.h"
 
-VCNL4010 vcnl;
+particle-vcnl4010 vcnl;
 
 void setup() {
   Serial.begin(9600);

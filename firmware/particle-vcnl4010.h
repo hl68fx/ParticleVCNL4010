@@ -1,5 +1,5 @@
-#ifndef _VCNL410_H_
-#define _VCNL410_H_
+#ifndef _VCNL4010_H_
+#define _VCNL4010_H_
 
 #include "application.h"
 #include "stdlib.h"
